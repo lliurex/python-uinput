@@ -1,0 +1,3 @@
+# This package is needed by xpra, which hasn't completely migrated to Python3
+# yet
+python-uinput: new-package-should-not-package-python2-module python-uinput

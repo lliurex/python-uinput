@@ -1,0 +1,11 @@
+python-uinput (0.11.2-1+lliurex1) bionic; urgency=medium
+
+  * Backport from disco
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 10 Jul 2019 14:47:01 +0200
+
+python-uinput (0.11.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #904401)
+
+ -- أحمد المحمودي (Ahmed El-Mahmoudy) <aelmahmoudy@users.sourceforge.net>  Thu, 28 Jul 2018 14:33:25 +0200

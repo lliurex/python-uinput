@@ -1,0 +1,6 @@
+version=3
+
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/python-uinput-$1\.tar\.gz/ \
+  https://github.com/tuomasjjrasanen/python-uinput/releases /tuomasjjrasanen/python-uinput/archive/(\d\S*)\.tar\.gz
+
+http://tjjr.fi/sw/python-uinput/releases/python-uinput-(\d\S*)\.tar\.(?:xz|bz2|gz)
